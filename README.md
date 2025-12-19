@@ -11,7 +11,7 @@ git clone https://github.com/SirAppSec/vuln-node.js-express.js-app.git
 cd vuln-node.js-express.js-app
 
 Install dependencies:
-npm install (npm version 16 or 18)
+npm install (need nvm version 16 or 18)
 
 Start the app:
 npm run dev
