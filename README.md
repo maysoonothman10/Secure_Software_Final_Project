@@ -5,8 +5,7 @@ This repository contains a deliberately vulnerable Node.js + Express application
 ---
 
 ## Installation
-
-1. Clone the repository:
+Clone the repository:
 git clone https://github.com/SirAppSec/vuln-node.js-express.js-app.git
 cd vuln-node.js-express.js-app
 
